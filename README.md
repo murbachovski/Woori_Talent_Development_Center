@@ -1,5 +1,5 @@
-## Woori_Talent_Development_Center
-
+# Woori_Talent_Development_Center
+## WTDC(Woori_Talent_Development_Center) 
 ```
-WTDC(Woori_Talent_Development_Center) 강의 자료
+강의 자료
 ```
