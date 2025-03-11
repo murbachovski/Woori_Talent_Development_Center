@@ -1,4 +1,4 @@
-## WTDC(Woori_Talent_Development_Center) 
+### WTDC(Woori_Talent_Development_Center) 
 ```
 💡교차로 교통 장애물 및 이벤트 감지 시스템 개발
 ```
