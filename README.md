@@ -78,8 +78,15 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 - conda create --name myenv python=3.9
 
 9. 공공 데이터 수집
+- 실시간 도시 데이터
+- 교통정보
 - AIhub
+- 한국도로공사 로드플러스
+- 무료 스톡 이미지
 - ITS
+- 도시교통정보센터
+- 경기도 교통정보센터
+- EarthCam
 
 10. 데이터 전처리
 - PIL
