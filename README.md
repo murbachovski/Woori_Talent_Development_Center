@@ -143,15 +143,19 @@ Dashboard와의 연동, 시스템 테스트 및 디버깅
 - Speed
 
 17. Supervision
-    - speed_estimation
-    - time_in_zone
-    - traffic_analysis
+    - Speed_estimation
+    - Time_in_zone
+    - Traffic_analysis
 
-18. Flask
+18. YOLOwolrd
+    - Clip
 
-19. Dash
+19. Flask
 
-20. Streamlit
+20. Dash
 
-21. 팀_프로젝트
+21. Streamlit
+
+22. 팀_프로젝트
 ```
+
