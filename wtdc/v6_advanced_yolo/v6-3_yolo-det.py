@@ -5,8 +5,8 @@ model = YOLO("yolo11n.pt")
 
 # 2. 모델 예측
 results = model(
-    "wtdc/_data/car.PNG",
-    # save=True,
+    "wtdc/sahi-person.jpg",
+    save=True,
     # conf=0.9 # => 임계치 = Threshold
 )
 
