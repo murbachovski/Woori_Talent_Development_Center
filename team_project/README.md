@@ -11,3 +11,7 @@ python3 app.py
 Body-Part Segmentation | Anonymous Population Flow
 :-------------------------:|:-------------------------:
 ![](media/segmentation.gif) | ![](media/flow.gif)
+
+Anonymous Population Flow
+:-------------------------:
+![](media/flow.gif)
