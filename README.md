@@ -1,9 +1,9 @@
-## ✅우리인재개발원
+## 💡우리인재개발원
 ```
 교차로 교통 장애물 및 이벤트 감지 시스템 개발
 ```
 
-## ✅프로젝트 진행 프로세스
+## 💡프로젝트 진행 프로세스
 ```
 1. 타임 테이블 작성 (세부 일정 확정)
 2. GitHub 생성 및 브랜치 전략 수립
@@ -21,7 +21,7 @@
 12. 최종 모델 및 결과 발표
 ```
 
-## ✅기술 스택 & 협업 환경
+## 💡기술 스택 & 협업 환경
 ```
 프레임워크: TensorFlow, PyTorch
 개발 도구: Python, OpenCV, YOLO
@@ -30,37 +30,37 @@
 협업 도구: Notion, Slack
 ```
 
-## ✅발표 준비
+## 💡발표 준비
 ```
 발표 내용 개요 정리 (기술적/비기술적 내용 균형 잡기)
 데모 영상 또는 실시간 시연 준비
 예상 질문 리스트 정리 후 Q&A 준비
 ```
 
-## ✅테스트 및 평가
+## 💡테스트 및 평가
 ```
 프로젝트 성능 평가 지표 확정 (정확도, 속도, False Positive Rate 등)
 실제 교차로 데이터를 활용한 테스트 계획 수립
 ```
 
-## ✅팀 현황
+## 💡팀 현황
 1. [A조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 2. [B조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 4. [D조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 
-## ✅구성원
+## 💡구성원
 ```
 팀장: 김OO
 팀원: 이OO, 박OO, 최OO
 ```
 
-## ✅설명(예시
+## 💡설명(예시
 ```
 YOLO를 활용한 교차로 불법 주차 관리 시스템 개발
 ```
 
-## ✅환경 셋팅(예시
+## 💡환경 셋팅(예시
 The code requires python>=3.9 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
 ```
 python>=3.7
@@ -69,18 +69,18 @@ torchvision==0.11.3
 matplotlib==3.5.1
 ```
 
-## ✅환경 설치(예시
+## 💡환경 설치(예시
 ```
 pip install -r requirements.txt
 ```
 
-## ✅실행(예시
+## 💡실행(예시
 ```
 cd team_project
 python3 app.py
 ```
 
-## ✅CCTV 접근
+## 💡CCTV 접근
 1. [카카오맵](https://map.kakao.com/?nil_profile=title&nil_src=local)
 <p align="center">
   <img width="1081" alt="Image" src="https://github.com/user-attachments/assets/2be59a8d-c2cc-4867-9db1-d255f4de3303" width="300">
@@ -248,14 +248,14 @@ Precision과 Recall의 조화평균
 ✅ 설명: 이상적인 모델이며, 성능이 최적화된 상태
 ```
 
-## ✅관련 용어 설명
+## 💡관련 용어 설명
 #### Hard Negative Mining
 ```
 객체 탐지 모델에서 오탐(False Positive)이 많은 경우, 특히 배경을 객체로 잘못 인식하는 문제를 해결하는 기법
 즉, 모델이 헷갈려하는 "어려운 배경(하드 네거티브)"을 학습 데이터로 추가하여 성능을 개선하는 방법
 ```
 
-#### ✅Base64 인코딩
+#### 💡Base64 인코딩
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84a0bfe9-ce05-46cc-84f1-ac3343aa3c73" width="600">
 </p>
@@ -264,7 +264,7 @@ Precision과 Recall의 조화평균
 문자열을 다시 디코딩하면 이미지로 돌아옵니다.
 ```
 
-#### ✅이메일
+#### 💡이메일
 ```
 ai.murbachovski@gmail.com
 ```
