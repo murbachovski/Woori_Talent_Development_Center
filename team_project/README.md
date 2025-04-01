@@ -19,6 +19,7 @@ Body-Part Segmentation
 ![](media/segmentation.gif)
 
 <p align="center">
+  Body-Part Segmentation
   <img src="media/segmentation.gif" alt="Body-Part Segmentation">
 </p>
 
