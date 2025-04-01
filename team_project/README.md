@@ -11,3 +11,9 @@ python3 app.py
 Body-Part Segmentation
 :-------------------------:
 ![](media/segmentation.gif)
+
+## 🎁구성 파일 설명
+app.py
+```
+실행 파일
+```
