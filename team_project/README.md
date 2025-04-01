@@ -11,3 +11,8 @@ python3 app.py
 Body-Part Segmentation
 :-------------------------:
 ![](media/segmentation.gif)
+
+## 🎁구현 이미지 및 영상
+Body-Part Segmentation
+:-------------------------:
+![](media/flow.gif)
