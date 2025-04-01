@@ -4,10 +4,10 @@
 ```
 
 ## 💡팀 현황
-1. [1조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
-2. [2조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
-3. [3조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
-4. [4조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+1. [A조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+2. [B조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+4. [D조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 
 ## 💡구성원
 ```
@@ -23,9 +23,9 @@ YOLO를 활용한 교차로 불법 주차 관리 시스템 개발
 ## 💡환경 셋팅(예시
 The code requires python>=3.9 and we use torch==1.10.2 and torchvision==0.11.3. To visualize the results, matplotlib>=3.5.1 is also required.
 ```
-python 3.7
-pytorch == 1.10.2
-torchvision == 0.11.3
+python>=3.7
+pytorch==1.10.2
+torchvision==0.11.3
 matplotlib==3.5.1
 ```
 
