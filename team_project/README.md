@@ -8,6 +8,6 @@ python3 app.py
 ```
 
 ## 🎁구현 이미지 및 영상
-Body-Part Segmentation
-:-------------------------:
-![](media/segmentation.gif)
+Body-Part Segmentation | Anonymous Population Flow
+:-------------------------:|:-------------------------:
+![](media/segmentation.gif) | ![](media/flow.gif)
