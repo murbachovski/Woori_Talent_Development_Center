@@ -20,4 +20,3 @@
 
 <AI 활용><br>
 [교통량 측정 CCTV](https://www.mk.co.kr/news/politics/10847270)<br>
-
