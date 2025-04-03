@@ -8,10 +8,16 @@
 2. [4way](https://github.com/borasarang3/4way/tree/main)<br>
 3. [Don`t Cross Line](https://github.com/Hj-1000/AI_Project)<br>
 
-## 🎁OpenAPI 활용
-[ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
-
 ## 🎁프로젝트 진행
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="700">
 </p>
+
+
+## 🎁참고 문서
+<OpenAPI 활용>
+[ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
+
+<AI 활용>
+[교통량 측정 CCTV](https://www.mk.co.kr/news/politics/10847270)<br>
+
