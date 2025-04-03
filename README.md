@@ -11,5 +11,7 @@
 ## ITS 국가교통정보센터
 https://its.go.kr/opendata/opendataList?service=cctv
 
-## 프로젝트 흐름
-![image](https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50)
+## 프로젝트 진행
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="600">
+</p>
