@@ -7,4 +7,3 @@
 1. [JoyK](https://github.com/JoYoungKyu/JoYoungKyu.github.io)<br>
 2. [4way](https://github.com/borasarang3/4way/tree/main)<br>
 3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
-4. [D조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
