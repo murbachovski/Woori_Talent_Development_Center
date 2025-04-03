@@ -4,7 +4,7 @@
 ```
 
 ## 🎁팀 현황
-1. [JoyK](https://github.com/JoYoungKyu/JoYoungKyu.github.io)<br>
+1. [JoyK](https://github.com/JoYoungKyu/project)<br>
 2. [4way](https://github.com/borasarang3/4way/tree/main)<br>
 3. [Don`t Cross Line](https://github.com/Hj-1000/AI_Project)<br>
 
