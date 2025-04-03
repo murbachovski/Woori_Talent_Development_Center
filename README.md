@@ -3,23 +3,8 @@
 교차로 교통 장애물 및 이벤트 감지 시스템 개발
 ```
 
-## 🎁우리인재 팀
-```
-팀장: 김OO
-팀원: 이OO, 박OO, 최OO
-```
-
-## 🎁프로젝트 주제 예)
-```
-교차로 불법주차 꼼짝마!!
-```
-
-## 🎁타임테이블
-```
-타임테이블 . . . 
-```
-
-## 🎁PPT 자료
-```
-PPT 링크 및 파일 . . .
-```
+## 🎁팀 현황
+1. [JoyK](https://github.com/JoYoungKyu/JoYoungKyu.github.io)<br>
+2. [4way](https://github.com/borasarang3/4way/tree/main)<br>
+3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+4. [D조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
