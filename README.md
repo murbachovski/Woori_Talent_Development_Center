@@ -80,7 +80,7 @@ Jira, Trello, GitHub Projects 등을 활용한 일정 및 작업 관리
 ```
 
 ## 🎁팀 현황
-1. [A조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+1. [A조](https://github.com/JoYoungKyu/JoYoungKyu.github.io)<br>
 2. [B조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 4. [D조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
