@@ -13,5 +13,5 @@
 
 ## 🎁프로젝트 진행
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="600">
+  <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="1000">
 </p>
