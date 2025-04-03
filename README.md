@@ -23,3 +23,7 @@
 
 **AI 활용**<br>
 [교통량 측정 CCTV](https://www.mk.co.kr/news/politics/10847270)<br>
+
+**예제 문제**<br>
+🚩 [Google Machine Learning Crash Course - Precision & Recall](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall) <br>
+🚩 [Google Machine Learning Crash Course - Classification: ROC and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) <br>
