@@ -9,9 +9,7 @@
 3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
 
 ## 🎁OpenAPI 활용
-```
-ITS 국가교통정보센터 => https://its.go.kr/opendata/opendataList?service=cctv
-```
+[ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
 
 ## 🎁프로젝트 진행
 <p align="center">
