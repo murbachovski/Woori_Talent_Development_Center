@@ -10,8 +10,7 @@
 
 ## 🎁OpenAPI 활용
 ```
-ITS 국가교통정보센터
-https://its.go.kr/opendata/opendataList?service=cctv
+ITS 국가교통정보센터 => https://its.go.kr/opendata/opendataList?service=cctv
 ```
 
 ## 🎁프로젝트 진행
