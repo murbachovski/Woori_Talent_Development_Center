@@ -3,6 +3,11 @@
 교차로 다중 이벤트 감지 시스템 개발
 ```
 
+## 🎁프로젝트 진행
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="700">
+</p>
+
 ## 🎁프로그램 진행 예상도
 ```
 1. 데이터 수집
@@ -26,11 +31,6 @@
   7-2. 결과 영상 수집
   7-3. 피드백 및 수정 사항 정리
 ```
-
-## 🎁프로젝트 진행
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a48edc5f-2036-4fba-8f50-e482d6bb4d50" width="700">
-</p>
 
 ## 🎁참고 문서
 **OpenAPI 활용**<br>
