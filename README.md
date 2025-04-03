@@ -6,7 +6,7 @@
 ## 🎁팀 현황
 1. [JoyK](https://github.com/JoYoungKyu/JoYoungKyu.github.io)<br>
 2. [4way](https://github.com/borasarang3/4way/tree/main)<br>
-3. [C조](https://github.com/murbachovski/Woori_Talent_Development_Center/edit/team/README.md)<br>
+3. [C조](https://github.com/Hj-1000/AI_Project)<br>
 
 ## 🎁OpenAPI 활용
 [ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
