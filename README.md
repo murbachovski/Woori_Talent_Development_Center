@@ -18,5 +18,8 @@
 <OpenAPI 활용><br>
 [ITS 국가교통정보센터](https://its.go.kr/opendata/opendataList?service=cctv)<br>
 
+<OpenAPI ITS 활용법>
+[고속도로 CCTV Open API 불러오기(ITS 국가교통정보센터)](https://s0ysauce.tistory.com/38)<br>
+
 <AI 활용><br>
 [교통량 측정 CCTV](https://www.mk.co.kr/news/politics/10847270)<br>
