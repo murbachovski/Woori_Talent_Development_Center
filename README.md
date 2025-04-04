@@ -50,3 +50,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="700">
 </p>
+
+**tips_for_best_training_results**<br>
+[tips_for_best_training_results)]([https://s0ysauce.tistory.com/38](https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results/))<br>
+
