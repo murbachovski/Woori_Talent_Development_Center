@@ -47,6 +47,6 @@
 🚩 [Google Machine Learning Crash Course - Classification: ROC and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) <br>
 
 **Background Image**<br>
-![5b37d988-2fc8-483e-ae24-d5ea3b3c9d82](https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="700">
+</p>
