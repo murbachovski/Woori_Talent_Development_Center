@@ -21,7 +21,7 @@
 **OpenAPI ITS 활용법**<br>
 [고속도로 CCTV Open API 불러오기(ITS 국가교통정보센터)](https://s0ysauce.tistory.com/38)<br>
 
-**AI 활용**<br>
+**AI 활용 사례**<br>
 [교통량 측정 CCTV](https://www.mk.co.kr/news/politics/10847270)<br>
 
 **예제 문제**<br>
