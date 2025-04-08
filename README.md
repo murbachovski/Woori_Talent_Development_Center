@@ -27,3 +27,9 @@
 **예제 문제**<br>
 🚩 [Google Machine Learning Crash Course - Precision & Recall](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall) <br>
 🚩 [Google Machine Learning Crash Course - Classification: ROC and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) <br>
+
+
+**YOLO training 중단되었을 경우**<br>
+[YOLO Train Parameter resume = True](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)<br>
+
+
