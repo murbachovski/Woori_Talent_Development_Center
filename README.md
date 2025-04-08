@@ -50,9 +50,15 @@
 **Transfer Learning with Frozen Layers**<br>
 [YOLO Train Parameter freeze](https://docs.ultralytics.com/yolov5/tutorials/transfer_learning_with_frozen_layers/)<br>
 
-**Prune(가지치기)**<br>
+**Pruning**<br>
 [Model Pruning and Sparsity in YOLOv5](https://docs.ultralytics.com/yolov5/tutorials/model_pruning_and_sparsity/)<br>
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/6257c65e-c700-4e30-83b8-32e9f5e33abd" width="700">
+</p>
+
+**Quantization**<br>
+[Model Quantization](https://docs.ultralytics.com/guides/model-deployment-practices/#model-quantization)<br>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7703ab83-7ccc-48b2-b7cc-79eea977c767" width="700">
 </p>
 - - -
