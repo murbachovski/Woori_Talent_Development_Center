@@ -31,12 +31,12 @@
 - - -
 **<p>$\it{\large{\color{#DD6565}25.04.07.월}}$</p>**
 **Background Image**<br>
-<p align="left">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/9a975c01-97eb-46e6-a755-3042c6919213" width="500">
-</p>
-<p align="right">
   <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="500">
-</p>
+</div>
+
+
 
 **tips_for_best_training_results**<br>
 [tips_for_best_training_results](https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results)<br>
