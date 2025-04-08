@@ -29,6 +29,16 @@
 🚩 [Google Machine Learning Crash Course - Classification: ROC and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc) <br>
 
 - - -
+**<p>$\it{\large{\color{#DD6565}25.04.07.월}}$</p>**
+**Background Image**<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="700">
+</p>
+
+**tips_for_best_training_results**<br>
+[tips_for_best_training_results](https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results)<br>
+
+- - -
 **<p>$\it{\large{\color{#DD6565}25.04.08.화}}$</p>**
 **Resuming Interrupted Trainings**<br>
 [YOLO Train Parameter resume](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)<br>
