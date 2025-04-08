@@ -49,4 +49,7 @@
 
 **Transfer Learning with Frozen Layers**<br>
 [YOLO Train Parameter freeze](https://docs.ultralytics.com/yolov5/tutorials/transfer_learning_with_frozen_layers/)<br>
+
+**Transfer Learning with Frozen Layers**<br>
+
 - - -
