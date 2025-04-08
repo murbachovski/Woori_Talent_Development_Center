@@ -32,7 +32,7 @@
 **<p>$\it{\large{\color{#DD6565}25.04.07.월}}$</p>**
 **Background Image**<br>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/9a975c01-97eb-46e6-a755-3042c6919213" width="500">
+  <img src="https://github.com/user-attachments/assets/9a975c01-97eb-46e6-a755-3042c6919213" width="800">
   <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="500">
 </div>
 
