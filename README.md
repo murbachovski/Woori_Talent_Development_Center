@@ -30,6 +30,6 @@
 
 
 **YOLO training 중단되었을 경우**<br>
-[YOLO Train Parameter resume = True](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)<br>
+[YOLO Train Parameter resume](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)<br>
 
 
