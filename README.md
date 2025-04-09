@@ -74,52 +74,6 @@ F1-Confidence Curve
 **<p>$\it{\large{\color{#DD6565}25.04.09.수}}$</p>**
 ## 📝Precision-Recall 관련 문제
 
-#### Precision and Recall
-```
-Precision : 모델의 positive 중 정답 비율<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/1f34235a-210f-45a8-a544-366266fa65a4" width="500" height="500" style="object-fit: cover;">
-</div>
-
-**tips_for_best_training_results**<br>
-[tips_for_best_training_results](https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results)<br>
-
-- - -
-**<p>$\it{\large{\color{#DD6565}25.04.08.화}}$</p>**
-**Resuming Interrupted Trainings**<br>
-[YOLO Train Parameter resume](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)<br>
-
-**Transfer Learning with Frozen Layers**<br>
-[YOLO Train Parameter freeze](https://docs.ultralytics.com/yolov5/tutorials/transfer_learning_with_frozen_layers/)<br>
-
-**Pruning**<br>
-[Model Pruning and Sparsity in YOLOv5](https://docs.ultralytics.com/yolov5/tutorials/model_pruning_and_sparsity/)<br>
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/6257c65e-c700-4e30-83b8-32e9f5e33abd" width="700">
-</p>
-
-**Quantization**<br>
-[Model Quantization](https://docs.ultralytics.com/guides/model-deployment-practices/#model-quantization)<br>
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/7703ab83-7ccc-48b2-b7cc-79eea977c767" width="700">
-</p>
-
-**성능 지표 설명**<br>
-```
-F1-Confidence Curve
-• F1 점수는 분류 모델의 성능을 나타내는 메트릭 중 하나로, 정밀도(Precision)와 재현율(Recall)의 조화 평균입니다.
-• 1에 가까울수록 모델의 성능이 좋다는 것을 의미합니다.
-```
-- - -
-
-**<p>$\it{\large{\color{#DD6565}25.04.09.수}}$</p>**
-## 📝Precision-Recall 관련 문제
-
-#### Precision and Recall
-```
-Precision(정밀도) : 모델의 positive 중 실제 positive 비율
-Recall(재현율) : 실제 Positive 중 모델의 positive 
-```
-
 #### 객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우
 ```
 ✅ 정답: Precision ↑, Recall ↓
