@@ -123,3 +123,15 @@ pip install tensorboard
 # Tensorboard 실행(CMD)
 tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
 ```
+
+- - -
+
+**<p>$\it{\large{\color{#DD6565}25.04.10.목}}$</p>**
+
+- - -
+
+- - -
+
+**<p>$\it{\large{\color{#DD6565}25.04.11.금}}$</p>**
+
+- - -
