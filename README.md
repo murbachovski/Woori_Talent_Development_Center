@@ -72,6 +72,12 @@ F1-Confidence Curve
 - - -
 
 **<p>$\it{\large{\color{#DD6565}25.04.09.수}}$</p>**
+#### Precision and Recall
+```
+Precision(정밀도) : 모델의 Positive 중 실제 Positive 
+Recall(재현율) : 실제 Positive 중 모델의 Positive
+```
+
 ## 📝Precision-Recall 관련 문제
 
 #### 객체 탐지 모델을 적용했더니 탐지된 객체는 대부분 정확하지만, 많은 실제 객체를 놓치는 경우
