@@ -112,9 +112,8 @@ Recall(재현율) : 실제 Positive 중 모델의 Positive
 ```
 
 ## 💡Tensorboard 확인
-#### Tensorboard
 ```
-# log 파일 확인
+# log 파일 생성 확인 방법
 Yolo Train => runs/detect/train/events.out.tfevents.1744182544.2AT.1604
 
 # Tensorboard 설치
