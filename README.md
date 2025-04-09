@@ -110,3 +110,14 @@ Recall(재현율) : 실제 Positive 중 모델의 Positive
 객체 탐지 모델에서 오탐(False Positive)이 많은 경우, 특히 배경을 객체로 잘못 인식하는 문제를 해결하는 기법
 즉, 모델이 헷갈려하는 "어려운 배경(하드 네거티브)"을 학습 데이터로 추가하여 성능을 개선하는 방법
 ```
+
+## 💡Tensorboard 확인
+#### Tensorboard
+```
+# log 파일 확인
+Yolo Train => runs/detect/train/events.out.tfevents.1744182544.2AT.1604
+# Tensorboard 설치
+pip install tensorboard
+# Tensorboard 실행(CMD)
+tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
+```
