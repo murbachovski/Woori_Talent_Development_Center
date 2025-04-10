@@ -127,7 +127,13 @@ tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
 
 **<p>$\it{\large{\color{#DD6565}25.04.10.목}}$</p>**
 
-- - -
+```
+# 25.04.11.금
+1차 발표
+- 발표 시간 : 15분 ~
+- 질문은 1개씩 무조건
+- 발표 순서 정하기
+```
 
 - - -
 
