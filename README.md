@@ -1,4 +1,4 @@
-## 🎁우리인재개발원(우리컴퓨터아카데미)
+![stage22_C3k2_features](https://github.com/user-attachments/assets/ab2003e7-8d42-473d-bea8-9b6af428615e)## 🎁우리인재개발원(우리컴퓨터아카데미)
 ```
 교차로 교통 장애물 및 이벤트 감지 시스템 개발
 ```
@@ -136,6 +136,34 @@ tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
 
 발표 순서 : 목요일 강의 종료 전 까지 전달
 ```
+
+## 🔍 YOLOv8 `visualize=True` 시각화 스테이지 분석
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/927a7a29-d8de-4cca-85d4-d5d348c80ffd" width="700">
+</p>
+
+### visualize=True
+설명
+```
+visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature Map(특징 맵) 을 이미지로 저장해주는 기능
+모델 내부가 어떻게 입력 영상을 해석하고 있는지 시각적으로 확인
+```
+
+시각화 해석
+```
+밝은 영역: 해당 위치에서 강한 activation (특징 반응) 이 있었음을 의미
+어두운 영역: 모델이 관심을 덜 가지는 부분
+중간 레이어는 저수준 특징(모서리, 색상 등), 깊은 레이어는 고수준 특징(객체 윤곽 등)을 포착함
+주의: 밝은 activation이 있다고 해서 반드시 탐지된 객체가 있는 건 아님 (confidence, 후처리 기준 미달일 수 있음)
+```
+
+| Stage 범위         | 위치                      | 의미                           | 시각화 특징                                 |
+|-------------------|---------------------------|--------------------------------|---------------------------------------------|
+| `stage_0 ~ stage_4`  | 초기 Convolution Layer     | Edge, Corner 탐지               | 밝기 변화, 윤곽선 강조                        |
+| `stage_5 ~ stage_10` | 중간 Layer (Backbone)      | 모양, 패턴 인식                 | 윤곽보다 내부 구조 표현                       |
+| `stage_11 ~ stage_16`| Neck (FPN, PAN 등)         | Multi-scale Feature 강화        | 복잡하고 의미 있는 부분 강조                 |
+| `stage_17 ~ stage_20`| Head (예측 전 단계)        | 객체 존재 위치/크기 판단         | 관심 객체의 중심 부분만 밝게 나옴             |
+
 
 **<p>$\it{\large{\color{#DD6565}25.04.11.금}}$</p>**
 ✅ 팀 프로젝트 발표 진행(1차)
