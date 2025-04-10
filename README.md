@@ -137,19 +137,16 @@ tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
 발표 순서 : 목요일 강의 종료 전 까지 전달
 ```
 
-## 🔍 YOLOv8 `visualize=True` 시각화 스테이지 분석
+## 🔍 `visualize=True` 시각화 스테이지 분석
 <p align="left">
   <img src="https://github.com/user-attachments/assets/927a7a29-d8de-4cca-85d4-d5d348c80ffd" width="700">
 </p>
 
-### visualize=True
-설명
 ```
 visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature Map(특징 맵) 을 이미지로 저장해주는 기능
 모델 내부가 어떻게 입력 영상을 해석하고 있는지 시각적으로 확인
 ```
 
-시각화 해석
 ```
 밝은 영역: 해당 위치에서 강한 activation (특징 반응) 이 있었음을 의미
 어두운 영역: 모델이 관심을 덜 가지는 부분
