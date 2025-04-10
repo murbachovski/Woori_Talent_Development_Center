@@ -138,5 +138,5 @@ tensorboard --logdir="C:/Users/Administrator/Desktop/ai/runs/detect/train"
 ```
 
 **<p>$\it{\large{\color{#DD6565}25.04.11.금}}$</p>**
-
+✅ 팀 프로젝트 발표 진행(1차)
 - - -
