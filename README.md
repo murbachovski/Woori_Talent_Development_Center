@@ -164,4 +164,8 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 
 **<p>$\it{\large{\color{#DD6565}25.04.11.금}}$</p>**
 ✅ 팀 프로젝트 발표 진행(1차)
+## 발표 순서
+1. [4way](https://github.com/borasarang3/4way/tree/main)<br>
+2. [Don`t Cross Line](https://github.com/Hj-1000/AI_Project)<br>
+3. [JoyK](https://github.com/JoYoungKyu/team_project)<br>
 - - -
