@@ -169,3 +169,8 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 2. [Don`t Cross Line](https://github.com/Hj-1000/AI_Project)<br>
 3. [JoyK](https://github.com/JoYoungKyu/team_project)<br>
 - - -
+
+## 이메일
+```
+ai.murbachovski@gmail.com
+```
