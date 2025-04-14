@@ -170,7 +170,16 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 3. [JoyK](https://github.com/JoYoungKyu/team_project)<br>
 - - -
 
+**<p>$\it{\large{\color{#DD6565}25.04.14.월}}$</p>**
+## github 내용 정리
+1. 프로젝트 설명
+2. 환경 설치 내용
+3. requirements.txt
+4. 설치 프로세스
+- - -
+
 ## 이메일
 ```
 ai.murbachovski@gmail.com
 ```
+
