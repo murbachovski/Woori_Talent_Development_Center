@@ -171,7 +171,7 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 - - -
 
 **<p>$\it{\large{\color{#DD6565}25.04.14.월}}$</p>**
-## github 내용 정리
+## github 프로젝트 관리
 1. 프로젝트 설명
 2. 환경 설치 내용
 3. requirements.txt
