@@ -179,6 +179,8 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 - - -
 
 **<p>$\it{\large{\color{#DD6565}25.04.14.월}}$</p>**
+## OpenAPI 활용
+[UTIC](https://github.com/JoYoungKyu/team_project)<br>
 - - -
 
 ## 이메일
