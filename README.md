@@ -183,6 +183,10 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 [UTIC](https://www.utic.go.kr/guide/utisRefCctv.do)<br>
 - - -
 
+**<p>$\it{\large{\color{#DD6565}25.04.16.수}}$</p>**
+## github 내용 점검
+- - -
+
 ## 이메일
 ```
 ai.murbachovski@gmail.com
