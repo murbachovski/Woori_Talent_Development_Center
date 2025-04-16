@@ -187,6 +187,14 @@ visualize=True 옵션은 YOLO 모델의 추론 시 중간 레이어의 Feature M
 ## github 내용 점검
 - - -
 
+**<p>$\it{\large{\color{#DD6565}25.04.17.목}}$</p>**
+## 최종 프로젝트 발표 안내
+- - -
+
+**<p>$\it{\large{\color{#DD6565}25.04.18.금}}$</p>**
+## 최종 프로젝트 발표
+- - -
+
 ## 이메일
 ```
 ai.murbachovski@gmail.com
